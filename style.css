@@ -20,6 +20,12 @@ h1:hover{
     color: blanchedalmond;
     cursor: pointer;
 }
+.pic{
+    height: 50%;
+    width: 50%;
+    box-shadow: inset;
+    
+}
 .one{
     border: 2px solid red;
     margin: 20px;
